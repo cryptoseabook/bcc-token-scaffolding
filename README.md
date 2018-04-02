@@ -1,1 +1,2 @@
-# bcc-token-scaffolding
+# bcc-token
+Blockchain Center Token starting point
